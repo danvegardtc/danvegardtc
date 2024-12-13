@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript and Typescript
 - 💞️ I’m looking to collaborate on Shopify projects
 - 📫 How to reach me daniel.vega@rundtc.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: hee/hee
 
 <!---
 danvegardtc/danvegardtc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
